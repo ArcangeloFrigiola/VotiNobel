@@ -114,8 +114,7 @@ public class Model {
 				parziale.remove(e);
 			}
 		}
-
-	}
+    }
 
 	public double calcolaMedia(Set<Esame> parziale) {
 		int crediti = 0;
